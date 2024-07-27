@@ -15,6 +15,7 @@ Technologies Used:
 </ol>
 
 <h2>Screenshots for the project...</h2>
+
 ![Screenshot 2024-07-27 125137](https://github.com/user-attachments/assets/bdb1be90-5e86-48df-9236-f3cc87a85edd)
 
 ![Screenshot 2024-07-27 125255](https://github.com/user-attachments/assets/a8d79315-64cf-41fd-87df-b7ea02aacf2a)

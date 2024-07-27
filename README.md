@@ -1,8 +1,20 @@
-# React + Vite
+# Converso- The Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a clone of the Gemini AI application, built with React and Vite. It provides a user interface similar to Gemini, including a sidebar for navigation and a content generation feature.
 
-Currently, two official plugins are available:
+Features
+Sidebar Navigation: Easily navigate through different sections of the application with a functional sidebar.
+Content Generation: Input prompts to generate dynamic content using the integrated AI model.
+Modern UI: Clean and responsive design to enhance user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+<ol>
+  <li>React JS</li>
+  <li>Vite JS</li>
+  <li>CSS</li>
+</ol>
+
+<h2>Screenshots for the project...</h2>
+![Screenshot 2024-07-27 125137](https://github.com/user-attachments/assets/bdb1be90-5e86-48df-9236-f3cc87a85edd)
+
+![Screenshot 2024-07-27 125255](https://github.com/user-attachments/assets/a8d79315-64cf-41fd-87df-b7ea02aacf2a)
